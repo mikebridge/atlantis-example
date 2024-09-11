@@ -1,0 +1,20 @@
+# Terraform
+
+.terraform
+.terraform.lock.hcl
+
+# vscode
+.vscode/
+
+# intellij
+.idea
+out
+
+# Emacs
+*~
+.\#*
+
+# Misc
+
+tmp
+.DS_Store
